@@ -1,6 +1,6 @@
 # Simple Raffle Bot!
 
-Simple Raffle Bot simply picks a "winner" from the people in the channel.  It is triggered by typing "rafflebot" into slack.
+Simple Raffle Bot simply picks a "winner" from the people in the channel.  It is triggered by typing any chat that starts with "rafflebot" into slack.
 
 ## To run the bot
 
